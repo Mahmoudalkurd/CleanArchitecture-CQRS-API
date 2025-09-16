@@ -1,0 +1,11 @@
+# Build and VS files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Other temporary files
+*.log
+*.cache
+*.tmp
